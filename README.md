@@ -37,7 +37,10 @@ in the initial data preparation phase, we performed the following tasks:
 2. handling missing values
 3. data cleaning and formatting.
 
-![Uploading 2020-04-18.png…]()
+
+![스크린샷 2023-10-09 001340](https://github.com/hsydata/Test/assets/162429657/34523c5e-ecc7-4fbc-a2ec-bc86f4dafa3f)
+
+
 ### Exploratory Data Analysis 
 XXX involved exploring the sales data to answer key questions, such as: 
 - What is the overall sales trend?
