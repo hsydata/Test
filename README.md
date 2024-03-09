@@ -56,6 +56,7 @@ The analysis results are summarised as follows:
 2. Priduct Category A is the best-performing category in terms of sales and revenue.
 3. Customer segments with high lifeline value (LTV0 should be targeted for marketing efforts.
    
+![Uploading Screenshot 2024-02-11 231424.png…]()
 
 ### Recommendations 
 Based on the analysis, we recommend the following actions: 
