@@ -58,8 +58,9 @@ The analysis results are summarised as follows:
 1. The company's sales have been steadily increasing over the past year, with a noticiable peak during the holiday season.
 2. Priduct Category A is the best-performing category in terms of sales and revenue.
 3. Customer segments with high lifeline value (LTV0 should be targeted for marketing efforts.
-   
-![Uploading Screenshot 2024-02-11 231424.png…]()
+
+
+![image](https://github.com/hsydata/Test/assets/162429657/398df742-b2da-461d-aeea-288cb528f8f3)
 
 ### Recommendations 
 Based on the analysis, we recommend the following actions: 
