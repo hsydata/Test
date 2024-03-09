@@ -67,7 +67,8 @@ Based on the analysis, we recommend the following actions:
 - Focus on expanding and promoting products in category A.
 - Implement a customer segmentation strategy the target high LTV customers effectively.
 
-  
+  ![image](https://github.com/hsydata/Test/assets/162429657/a712cc24-7de4-4dc4-9e16-716ca439187b)
+
 ### Limitations 
 I had to remove all zero values from budget and revenue columns becausethey would have affected the accuracy of my conclusions from the analysis. There are still a few outliers even after the omissions but even then we can still see that there is a positive correlation between both budget and the number of votes with revenue. 
 
