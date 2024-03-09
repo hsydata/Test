@@ -9,6 +9,7 @@
 - [Data Cleaning/ Preperation](#data-cleaning/-preperation)
 
 - [Exploratory Data Analysis](exploratory-data-analysis)
+![Uploading 2020-04-18.png…]()
 
 - [Data Analysis](#data-analysis)
 - [Results/ Findings](#results/-findings)
