@@ -9,7 +9,7 @@
 - [Data Cleaning/ Preperation](#data-cleaning/-preperation)
 
 - [Exploratory Data Analysis](exploratory-data-analysis)
-![Uploading 2020-04-18.png…]()
+
 
 - [Data Analysis](#data-analysis)
 - [Results/ Findings](#results/-findings)
@@ -37,6 +37,7 @@ in the initial data preparation phase, we performed the following tasks:
 2. handling missing values
 3. data cleaning and formatting.
 
+![Uploading 2020-04-18.png…]()
 ### Exploratory Data Analysis 
 XXX involved exploring the sales data to answer key questions, such as: 
 - What is the overall sales trend?
