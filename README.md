@@ -75,3 +75,5 @@ I had to remove all zero values from budget and revenue columns becausethey woul
 ### References 
 1. SQL for Businesses by werty
 2. [Stack Overflow](link)
+
+🙂  (emoji : + smile) 🧒
