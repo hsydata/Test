@@ -14,7 +14,7 @@
 - [Results/ Findings](#results/-findings)
 - [Recommendations](#recommendations)
 
-- - [Limitations](#limitations)
+- [Limitations](#limitations)
 
 ### Project Overview  
 This is an 
