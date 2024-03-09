@@ -1,7 +1,7 @@
 # Sales Analysis
 ## Table of Contents
-- [Project Overview](#project_overview)
-- [Recommendations](#recommnendations)
+- [Project Overview](#project-overview)
+- [Recommendations](#recommendations)
 
 ### Project Overview  
 ### Data Sources 
